@@ -18,7 +18,6 @@ public class lb2 {
     }
 
     public static void main(String[] args) {
-        // Примеры тестов
         List<String> test1 = List.of("Dislike");
         System.out.println("Ввод: " + test1 + " ➞ Вывод: " + determineFinalState(test1));
 
